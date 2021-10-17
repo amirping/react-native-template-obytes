@@ -3,12 +3,12 @@
 
 </p>
 <h1 align="center">
-  React Native Template Obytes
+  React Native basic template
 </h1>
 
-A simple React Native Template based on Obytes Mobile tribe best practices.
+A simple React Native Template
 
-## ⭐ Features
+## ⭐ included
 
 - ✅ Typescript by default based on official Typescript template
 - ✅ Auto Generate App Icon and Splash screen
@@ -26,7 +26,7 @@ A simple React Native Template based on Obytes Mobile tribe best practices.
 ## ▶️ Usage
 
 ```
-npx react-native init MyApp --template https://github.com/obytes/react-native-template-obytes
+npx react-native init MyApp --template https://github.com/amirping/react-native-basic-template
 ```
 
 ## ⚙️ Enable husky Git pre-hooks
@@ -76,13 +76,3 @@ Run the following command to generate App icons assets :
 ```
 yarn react-native link
 ```
-
-More details [how to customize App Icon and Splash screen](https://handbook.obytes.com/docs/mobile/generate-app-icon)
-
-## 📚 Read More About Modules
-
-👉 https://handbook.obytes.com/docs/mobile/get-started
-
-## 🔖 License
-
-This project is MIT licensed.
